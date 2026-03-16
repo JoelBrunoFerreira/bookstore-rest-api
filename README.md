@@ -14,9 +14,9 @@ The main focus of this project is to practise and understand **Spring Data JPA a
 
 | Technology | Version |
 |---|---|
-| Java | 17+ |
-| Spring Boot | 3.x |
-| Spring Data JPA | 3.x |
+| Java | 25 |
+| Spring Boot | 4.x |
+| Spring Data JPA | 4.x |
 | Hibernate | (via Spring Data JPA) |
 | Lombok | Latest |
 | Maven | 3.x |
